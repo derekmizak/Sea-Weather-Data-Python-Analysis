@@ -1,7 +1,14 @@
-# Using Python for sea weahter data analysis
+# Using Python for sea weather data analysis
 
 ## Introduction
 Repository include some examples of using Python for sea weather data analysis. Data is downloaded from [Marine Institute](https://erddap.marine.ie/erddap/index.html).
+
+----
+***Note:*** Repository is used for educational purposes only and is not suitable for production use.
+
+----
+
+
 
 The data is collected from the Irish wave buoy network and is updated every 30 minutes. The data is collected from 5 wave buoys located around the Irish coast. The data is collected from the following wave buoys: M1 to M6.
 
