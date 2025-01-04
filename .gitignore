@@ -468,4 +468,6 @@ FodyWeavers.xsd
 .venv/
 venv/
 
+buoys_data.csv
+
 # End of https://www.toptal.com/developers/gitignore/api/visualstudio,visualstudiocode,osx,macos

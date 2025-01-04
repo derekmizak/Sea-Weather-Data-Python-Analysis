@@ -3,6 +3,10 @@
 ## Introduction
 Repository include some examples of using Python for sea weather data analysis. Data is downloaded from [Marine Institute](https://erddap.marine.ie/erddap/index.html).
 
+## Data
+
+Before using the described code please download the data from the following link: [Marine Institute](https://erddap.marine.ie/erddap/index.html). Save downloaded data in repository folder with name `buoys_data.csv`.
+
 ----
 ***Note:*** Repository is used for educational purposes only and is not suitable for production use.
 
